@@ -1,10 +1,10 @@
 <h1 align="center">👋 Esselamü Aleyküm, Ben Muhammed Alparslan</h1>
-<h3 align="center">💻 Full Stack Developer | 🔻 Teknoloji & Yenilik Tutkunu</h3>
+<h3 align="center">💻 Full Stack Developer | 🔻 Mechatronic Engineer</h3>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustazafi&label=Profil%20Görüntülemeleri&color=0e75b6&style=flat" alt="mustazafi" />
+  <img src="https://komarev.com/ghpvc/?username=ensignalp&label=Profil%20Görüntülemeleri&color=0e75b6&style=flat" alt="ensignalp" />
 </p>
 
 ---
@@ -29,15 +29,15 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustazafi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ensignalp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustazafi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensignalp&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustazafi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensignalp&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🏆 Rozetler & Başarılar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustazafi&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ensignalp&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -64,13 +64,13 @@
   <a href="mailto:codealpx@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/mustazafi" target="_blank">
+  <a href="https://linkedin.com/in/ensignalp" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://instagram.com/mustazafi" target="_blank">
+  <a href="https://instagram.com/ensignalp" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
   </a>
-  <a href="https://codepen.io/mustazafi" target="_blank">
+  <a href="https://codepen.io/ensignalp" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="40"/>
   </a>
 </p>
