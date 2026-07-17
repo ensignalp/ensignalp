@@ -63,14 +63,11 @@
 <p align="center">
   <a href="mailto:codealpx@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ensignalp" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/ensignalp" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45"/>
-  </a>
-  <a href="https://codepen.io/ensignalp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="45"/>
   </a>
 </p>
