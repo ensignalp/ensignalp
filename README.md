@@ -1,7 +1,7 @@
 <h1 align="center">👋 Esselamü Aleyküm, Ben Muhammed Alparslan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mechatronic+Engineer;Kodla,+Yarat,+Feth+Et!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mechatronic+Engineer;Kodla,+Yarat,+Feth+Et!🚀" alt="" />
 </div>
 
 <p align="center">
